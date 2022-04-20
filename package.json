@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "adm-zip": "^0.4.7",
-    "fibers": ">=1.0.4",
+    "fibers": "^5.0.1",
     "mongodb": ">=2.0.49",
     "mongodb-promise": "",
     "underscore": "^1.8.3"
